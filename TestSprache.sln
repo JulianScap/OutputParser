@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSprache", "TestSprache\TestSprache.csproj", "{2221C933-3619-4C97-847A-B8E7CF0971FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestFile", "TestFile", "{67CE728C-D00E-47FB-BCF3-0BBD11EEF884}"
-	ProjectSection(SolutionItems) = preProject
-		patch.20200318.011718.log = patch.20200318.011718.log
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

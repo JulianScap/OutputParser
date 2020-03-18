@@ -55,7 +55,7 @@ namespace TestSprache
 
         static void Main(string[] args)
         {
-            var text = File.ReadAllText(@"C:\Users\julian.adler\Desktop\TestSprache\patch.20200318.011718.log");
+            var text = File.ReadAllText(@"..\..\..\sampledata.txt");
             Write(all.Many().Parse(text));
         }
 
